@@ -1,5 +1,3 @@
-import { Interface } from 'readline'
-
 export type ID = string
 
 export interface Column {
